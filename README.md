@@ -1,3 +1,4 @@
+
 # SCIOT-BloodPressure-Monitor
 
 Hypertension is a major public health issue, especially in developing countries, and is known as a “silent killer” because it has no symptoms. According to the World Health Organization’s report in 2013, approximately 17 million deaths per year occur due to cardiovascular disease, out of which complications of Hypertension account for 9.4 million deaths . The report stated that the number of people with Hypertension who are undiagnosed, untreated, and uncontrolled increases in a country withan increased population and is weak in the healthcare system. 
@@ -81,5 +82,13 @@ Connect the [services] https://ifttt.com/services that are involved in the Apple
 MQTIZER - Free MQTT Client MQTT stands for Message Queue Telemetry Transport. It is a publish/subscribe, extremely simplistic and lightweight messaging protocol, devised for constrained devices and low-bandwidth, high-latency or unreliable networks. The design principles are to minimise network bandwidth and device resource requirements whilst also attempting to ensure reliability and some degree of assurance of delivery. These principles also turn out to make the protocol ideal of the emerging “machine-to-machine” (M2M) or “Internet of Things” world of connected devices, and for mobile applications where bandwidth and battery power are at a premium. Dowload and install https://play.google.com/store/apps/details?id=com.sanyamarya.mqtizermqtt_client&hl=en&gl=US
 
 PROJECT ACTIVITY WORK
+![docker engine](https://user-images.githubusercontent.com/85179228/161755238-9dd789be-4491-41e4-a786-66f3fc3845be.PNG)
+![Email alert](https://user-images.githubusercontent.com/85179228/161755243-cc17040f-8d60-45e1-8a1f-d506205fedb3.PNG)
+![msg alert (2)](https://user-images.githubusercontent.com/85179228/161755247-93c22a85-4a71-48db-b9be-6ab5fac1f3cb.jpeg)
+![msg alert 3](https://user-images.githubusercontent.com/85179228/161755250-b7e009b8-92c3-4d9f-80b6-554738e92869.jpeg)
+![Msg alert](https://user-images.githubusercontent.com/85179228/161755251-e5596466-63e9-4ba7-a998-cfd285ee4ed8.jpeg)
+![Rabbitmq 2](https://user-images.githubusercontent.com/85179228/161755252-f16fa923-5600-4ced-8c45-1f7d9baa5c55.PNG)
+![Rabbitmq](https://user-images.githubusercontent.com/85179228/161755253-65733cbb-69f7-435c-968c-bfee29a57460.PNG)
+![results](https://user-images.githubusercontent.com/85179228/161755254-9aa76ab4-4a4e-42b9-9aae-a50f731c8f3d.PNG)
 
 

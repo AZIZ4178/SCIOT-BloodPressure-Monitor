@@ -1,0 +1,21 @@
+var message_protocol = require('amqplib');
+
+exports.handler = function (context, event) {
+
+    var randomInt = Math.round(Math.random() * (122 - 90)) + 90;
+    var message = String(randomInt);
+
+    message_protocol.connect('amqp://guest:guest@192.168.1.107:5672').then(function (conn) {
+        return conn.createChannel().then(function (channel) {
+            var topic = 'iot/bloodPressure';
+            var success = channel.assertQueue(topic, {durable: false});
+            return success.then(function () {
+                channel.sendToQueue(topic, Buffer.from(message));
+                return channel.close();
+            });
+        }).finally(function () {
+            conn.close();
+        })
+    }).catch(console.log);
+    context.callback('Message successfully Sent');
+};

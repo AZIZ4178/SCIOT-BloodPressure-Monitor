@@ -82,13 +82,18 @@ Connect the [services] https://ifttt.com/services that are involved in the Apple
 MQTIZER - Free MQTT Client MQTT stands for Message Queue Telemetry Transport. It is a publish/subscribe, extremely simplistic and lightweight messaging protocol, devised for constrained devices and low-bandwidth, high-latency or unreliable networks. The design principles are to minimise network bandwidth and device resource requirements whilst also attempting to ensure reliability and some degree of assurance of delivery. These principles also turn out to make the protocol ideal of the emerging “machine-to-machine” (M2M) or “Internet of Things” world of connected devices, and for mobile applications where bandwidth and battery power are at a premium. Dowload and install https://play.google.com/store/apps/details?id=com.sanyamarya.mqtizermqtt_client&hl=en&gl=US
 
 PROJECT ACTIVITY WORK
-![docker engine](https://user-images.githubusercontent.com/85179228/161755238-9dd789be-4491-41e4-a786-66f3fc3845be.PNG)
-![Email alert](https://user-images.githubusercontent.com/85179228/161755243-cc17040f-8d60-45e1-8a1f-d506205fedb3.PNG)
-![msg alert (2)](https://user-images.githubusercontent.com/85179228/161755247-93c22a85-4a71-48db-b9be-6ab5fac1f3cb.jpeg)
-![msg alert 3](https://user-images.githubusercontent.com/85179228/161755250-b7e009b8-92c3-4d9f-80b6-554738e92869.jpeg)
-![Msg alert](https://user-images.githubusercontent.com/85179228/161755251-e5596466-63e9-4ba7-a998-cfd285ee4ed8.jpeg)
-![Rabbitmq 2](https://user-images.githubusercontent.com/85179228/161755252-f16fa923-5600-4ced-8c45-1f7d9baa5c55.PNG)
-![Rabbitmq](https://user-images.githubusercontent.com/85179228/161755253-65733cbb-69f7-435c-968c-bfee29a57460.PNG)
-![results](https://user-images.githubusercontent.com/85179228/161755254-9aa76ab4-4a4e-42b9-9aae-a50f731c8f3d.PNG)
+![msg alert (2)](https://user-images.githubusercontent.com/85179228/163676354-a0d70273-ac66-48a7-91e6-6c968eb134b5.jpeg)
+![Msg alert](https://user-images.githubusercontent.com/85179228/163676356-2b7fbf75-238a-4fd5-af44-07db8741779f.jpeg)
+![nuclio dashboard installation](https://user-images.githubusercontent.com/85179228/163676357-6b38c328-421a-42e5-ab4d-33299c3ac38e.PNG)
+![nuclio](https://user-images.githubusercontent.com/85179228/163676360-3b093120-92c5-4229-b739-a283ef605346.PNG)
+![rabbirmq](https://user-images.githubusercontent.com/85179228/163676361-5cdc27c6-da01-4bf4-bd8b-3d267d3b3f82.PNG)
+![rabbit mq installation](https://user-images.githubusercontent.com/85179228/163676362-eaf9a57c-ad5a-4e32-9dc1-9dc63499ea10.PNG)
+![values](https://user-images.githubusercontent.com/85179228/163676363-04bc2136-250f-4b81-9d98-a331c7977d7a.PNG)
+![build commands](https://user-images.githubusercontent.com/85179228/163676364-c19ae3f5-4382-40bd-b888-f4a54b04f987.PNG)
+![docker engine](https://user-images.githubusercontent.com/85179228/163676365-753043fb-2833-4eed-b39d-e992eb5746a1.PNG)
+![docker](https://user-images.githubusercontent.com/85179228/163676366-16184a14-09f6-4b2a-b2ce-46f68eeb152d.PNG)
+![email recieved](https://user-images.githubusercontent.com/85179228/163676368-d6c14671-8318-4b14-aa99-2c200a17d2ba.PNG)
+![ip](https://user-images.githubusercontent.com/85179228/163676369-56aaa93a-df2e-4238-9589-896209b27b13.PNG)
+
 
 
